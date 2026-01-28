@@ -8,3 +8,4 @@ script_dir = os.path.dirname(os.path.realpath(sys.argv[0]))
 print(script_dir)
 print("2 times")
 
+print("aaa")
