@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: UTF-8 -*-
-__author__ = 'Huiqiang Huang'
+__author__ = 'Huiqiang Huang GOOD'
 import sys
 import os
 
